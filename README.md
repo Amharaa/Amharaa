@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amir
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me : amir.arabnejad1234@gmail.com
+- ⚡ Fun fact: Got nothing more than Gym and Cumputer :)
