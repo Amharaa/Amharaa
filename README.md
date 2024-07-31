@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Amir
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning C++ and Python
-- 📫 How to reach me : 
-Gmail: amir.arabnejad1234@gmail.com
-Instagram: amh.araa
-- ⚡ Fun fact: Got nothing more than Gym and Cumputer :)
+Hi guys My name is Amirhossein but I'd rather to be called amir😁
+💻
+So, currently I'm working with python and learning ML(machine learning)🤖
+⚡️
+There are multiple ways you can reach me:
+Instagram📱: amh.araa
+Telegram✉️:amirharaa
+Gmail📧: amirharaa@gmail.com
+🦥
+I'd prefer hitting gym and playing video games as my hobbies
+
+
+
+
